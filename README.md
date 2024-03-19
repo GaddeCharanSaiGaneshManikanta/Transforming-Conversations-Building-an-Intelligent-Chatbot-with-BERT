@@ -1,10 +1,3 @@
-INTERFACE:-
-![Screenshot (26)](https://github.com/Eswar1254/project_chatbot_bert/assets/116758728/1c35b89e-25a8-4776-ba04-6c8cdcc9d9f0)
-
-SYSTEM ARCHITECTURE:-
-![Screenshot (21)](https://github.com/Eswar1254/project_chatbot_bert/assets/116758728/aadac449-905e-474d-96ad-a06646bf8ea5)
-
-
 
 Chatbot Application:-
 
@@ -26,7 +19,7 @@ Installation
 Clone this repository to your local machine:
 
 
-git clone https://github.com/Eswar1254/project_chatbot_bert.git
+
 Navigate to the project directory:
 
 Install the required dependencies using pip:
